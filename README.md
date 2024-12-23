@@ -1,0 +1,1 @@
+This repository contains a COBOL program demonstrating a potential table overflow error. The program attempts to populate a table with more records than allocated memory can handle, leading to unexpected behavior or program termination. The solution provides strategies to handle such situations, including dynamic memory allocation and error handling mechanisms.
